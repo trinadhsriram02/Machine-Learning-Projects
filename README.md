@@ -26,4 +26,3 @@ Given the class imbalance ratio, we recommend measuring the accuracy using the A
 - Random Forest
 - XGBoost
   
-**Best Model F1 Score:** 87.00
